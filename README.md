@@ -1,5 +1,5 @@
 # foodrhetoric
-A network simulation of vegan food adoption using Theory of Planned Behavior.
+A network simulation of vegan food adoption using the Theory of Planned Behavior.
 
 The following is a work in progress.
 
